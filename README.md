@@ -1,3 +1,3 @@
-- 👋 Hi, My Name Is Rawasen 
-- 👀 I am a Cloud RAN and Data Scientist . I combine my knowledge of software and data science to build data driven products that can solve problems.
+- 👋 Hi, My Name Is Rawasen Prosper Munisi
+- 👀 I am a Cloud RAN and Data Scientist . I combine my knowledge of Cloud software and data science to build data driven products that can solve problems.
 - 🌱 I’m currently learning Languages Python, SQL, JavaScript.
