@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Rawasen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RawasenMunisi/RawasenMunisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, My Name Is Rawasen 
+- 👀 I am a Cloud RAN and Data Scientist . I combine my knowledge of software and data science to build data driven products that can solve problems.
+- 🌱 I’m currently learning Languages Python, SQL, JavaScript.
