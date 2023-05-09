@@ -1,4 +1,4 @@
-- 👋 Hi,I’m Rawasen Munisi and a currently working as RF-Telecom engineer as RF engineering ,RF optimization and antennas , digital modulations , data communication , drive test analysis
+- 👋 Hi,I’m Rawasen Munisi and a currently working on RF-Telecom engineer as RF engineering ,RF optimization and antennas , digital modulations , data communication , drive test analysis
 - 👀 I’m interested in Cloud RAN and Data Scientist . I want combine my knowledge and Cloud software and data science to build data driven products that can solve problems.
 - 🌱 I’m currently learning Languages Python, SQL, JavaScript.
 - 📫 How to reach me Municjr@gmail.com
